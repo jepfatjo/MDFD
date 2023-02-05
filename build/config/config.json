@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x26FA9aFe7Ea39cB64fF3390ef3A456fF8fB388B5",
+  "SCAN_LINK": "https://polygonscan.com/address/0x552FcB56B0C0C1654e2A5C2AFDA695848050C8B5",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Million Draw FD",
+  "SYMBOL": "MD",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Web",
+  "MARKETPLACE_LINK": "https://milliondrawmd.wixsite.com/million-draw",
+  "SHOW_BACKGROUND": true
+}
